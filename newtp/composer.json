@@ -1,0 +1,11 @@
+{
+    "name": "myapp/bundle",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "newtp\\":"/src/"
+        }
+    }
+}
